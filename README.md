@@ -1,4 +1,7 @@
+note: works on node v16
 ```
+nvm use
+
 npm i
-npm run test
+npm run start
 ```
